@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SepehrModirsanei
 - 👀 I’m interested in AI, Financial Markets, and LLM
-- 🌱 I’m currently Looking for positions abroad in PhD
+- 🌱 "I’m currently looking for PhD positions abroad in Computer Science or Computer Engineering."
 - 📫 How to reach me Sepehrmodiranei@gmail.com
 
 
